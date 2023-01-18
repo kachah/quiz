@@ -1,0 +1,7 @@
+
+#rotated-text {
+    transform: rotate(90deg);
+    transform-origin: x-axis y-axis z-axis;
+
+ }
+ 

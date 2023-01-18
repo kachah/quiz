@@ -1,0 +1,10 @@
+.rotate {
+    transform: rotate(90deg);
+    transition: transform 4s;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    
+}

@@ -1,0 +1,12 @@
+.flex {
+  display: flex;
+}
+.col-20 {
+  width: 20%;
+}
+.col-65 {
+  width: 65%;
+}
+.col-15 {
+  width: 15%;
+}
